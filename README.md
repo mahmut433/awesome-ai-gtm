@@ -14,7 +14,7 @@ The foundational layer that powers all specialized AI agents in the GTM stack. T
 
 ### Large Language Models (LLMs)
 
-- [Anthropic Claude API](https://www.anthropic.com/claude) - Enterprise-grade API for building custom AI applications
+- [Anthropic Claude API](https://www.anthropic.com/claude) - Enterprise-grade API for Claude models and custom AI applications
 - [ChatGPT (OpenAI)](https://chat.openai.com/) - GPT-4 powered conversational AI with advanced reasoning and multimodal capabilities
 - [Claude (Anthropic)](https://claude.ai/) - Constitutional AI model focused on safety, helpfulness, and honesty
 - [Gemini (Google)](https://gemini.google.com/) - Multimodal AI model with advanced reasoning and real-time information
@@ -36,16 +36,16 @@ The foundational layer that powers all specialized AI agents in the GTM stack. T
 
 ### AI Infrastructure & APIs
 
-- [Anthropic Claude API](https://www.anthropic.com/claude) - Enterprise-grade API for Claude models
 - [AWS AI Services](https://aws.amazon.com/ai/) - Comprehensive suite of AI services including SageMaker and Bedrock
 - [Azure AI](https://azure.microsoft.com/en-us/products/ai) - Microsoft's AI platform with cognitive services and ML tools
 - [Chroma](https://www.trychroma.com/) - Open-source embedding database for AI applications
 - [Cohere](https://cohere.ai/) - API platform for text generation, classification, and embeddings
 - [Google AI Platform](https://cloud.google.com/ai-platform) - Cloud-based AI development and deployment platform
 - [Hugging Face](https://huggingface.co/) - Platform for machine learning models, datasets, and AI applications
-- [OpenAI API](https://platform.openai.com/) - Comprehensive API for GPT models, embeddings, and fine-tuning
 - [Pinecone](https://www.pinecone.io/) - Vector database for AI applications and semantic search
 - [Weaviate](https://weaviate.io/) - Vector database with AI-native search and classification
+
+*Note: Main LLM APIs (Anthropic Claude API, OpenAI API) are listed in the [Large Language Models](#large-language-models-llms) section above.*
 
 ## Contents
 
