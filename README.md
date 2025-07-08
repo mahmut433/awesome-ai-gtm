@@ -31,6 +31,10 @@ The AI landscape is shifting from simple tools to sophisticated agents that can 
   - [Customer Data Platforms & Reverse ETL](#customer-data-platforms--reverse-etl)
   - [AI Governance & Compliance](#ai-governance--compliance)
 - [🔗 Integration & Orchestration](#integration--orchestration)
+- [🏗️ Foundation - Core AI Models & Platforms (Bonus - More Technical)](#foundation---core-ai-models--platforms-bonus---more-technical)
+  - [Large Language Models (LLMs)](#large-language-models-llms)
+  - [AI Development Platforms](#ai-development-platforms)
+  - [AI Infrastructure & APIs](#ai-infrastructure--apis)
 - [Contributing](#contributing)
 
 ## 🧠 Genesis Stage - Ideation & Strategy
