@@ -4,55 +4,10 @@
 
 The AI landscape is shifting from simple tools to sophisticated agents that can manage complex, multi-step workflows. This collection focuses on AI agents that work together to create a complete, end-to-end GTM funnel - from ideation to customer success.
 
-## 🏗️ Foundation - Core AI Models & Platforms
 
-The foundational layer that powers all specialized AI agents in the GTM stack. These core models, platforms, and infrastructure components provide the underlying intelligence, development capabilities, and API access that enable the sophisticated workflows throughout the funnel. Understanding and leveraging these foundational tools is essential for building custom AI solutions and maximizing the effectiveness of specialized agents.
-
-**Strategic Imperative**: The foundation layer determines the quality, capabilities, and cost-effectiveness of your entire AI stack. Choosing the right models and platforms can provide 2-10x performance improvements and significant cost savings. The key insight is that these foundational tools are not just utilities but strategic assets that enable competitive advantages through superior AI capabilities and faster development cycles.
-
-**Operational Dynamics**: Modern AI development has evolved from isolated model usage to sophisticated orchestration of multiple models and platforms. Large Language Models (LLMs) provide the core reasoning and generation capabilities, while development platforms enable rapid prototyping and deployment of custom agents. Infrastructure and APIs create the connective tissue that allows seamless integration and scaling. This layered approach enables businesses to build sophisticated AI systems without deep technical expertise while maintaining the flexibility to customize and optimize for specific use cases.
-
-### Large Language Models (LLMs)
-
-- [Anthropic Claude API](https://www.anthropic.com/claude) - Enterprise-grade API for Claude models and custom AI applications
-- [ChatGPT (OpenAI)](https://chat.openai.com/) - GPT-powered conversational AI with advanced reasoning and multimodal capabilities
-- [Claude (Anthropic)](https://claude.ai/) - Constitutional AI model focused on safety, helpfulness, and honesty
-- [Gemini (Google)](https://gemini.google.com/) - Multimodal AI model with advanced reasoning and real-time information
-- [Google AI Studio](https://aistudio.google.com/) - Development platform for Gemini models and custom AI applications
-- [Mistral AI](https://mistral.ai/) - Open-source and commercial LLMs with strong performance and cost efficiency
-- [OpenAI API](https://platform.openai.com/) - Comprehensive API suite for GPT models, embeddings, and fine-tuning
-- [Perplexity AI](https://www.perplexity.ai/) - AI-powered search engine with real-time web access and source citations
-
-### AI Development Platforms
-
-- [Bubble](https://bubble.io/) - No-code platform for building web apps with AI integration
-- [Cursor](https://cursor.sh/) - AI-powered code editor for advanced code generation and editing
-- [Flowise](https://flowiseai.com/) - Drag-and-drop builder for custom AI chatbots and workflows
-- [LangChain](https://www.langchain.com/) - Framework for building LLM-powered apps with chains and agents
-- [LlamaIndex](https://www.llamaindex.ai/) - Data framework for connecting LLMs to external data sources
-- [Make.com](https://www.make.com/) - Visual automation platform with AI for complex workflows
-- [Replit](https://replit.com/) - Cloud development environment with AI coding assistance
-- [Zapier AI](https://zapier.com/ai) - AI-powered automation platform for connecting apps and workflows
-
-### AI Infrastructure & APIs
-
-- [AWS AI Services](https://aws.amazon.com/ai/) - Suite of AI services including SageMaker and Bedrock
-- [Azure AI](https://azure.microsoft.com/en-us/products/ai) - Microsoft AI platform with cognitive services and ML tools
-- [Chroma](https://www.trychroma.com/) - Open-source embedding database for AI applications
-- [Cohere](https://cohere.ai/) - API platform for text generation, classification, and embeddings
-- [Google AI Platform](https://cloud.google.com/ai-platform) - Cloud-based AI development and deployment platform
-- [Hugging Face](https://huggingface.co/) - Platform for ML models, datasets, and AI applications
-- [Pinecone](https://www.pinecone.io/) - Vector database for AI applications and semantic search
-- [Weaviate](https://weaviate.io/) - Vector database with AI-native search and classification
-
-*Note: Main LLM APIs (Anthropic Claude API, OpenAI API) are listed in the [Large Language Models](#large-language-models-llms) section above.*
 
 ## Contents
 
-- [🏗️ Foundation - Core AI Models & Platforms](#foundation---core-ai-models--platforms)
-  - [Large Language Models (LLMs)](#large-language-models-llms)
-  - [AI Development Platforms](#ai-development-platforms)
-  - [AI Infrastructure & APIs](#ai-infrastructure--apis)
 - [🧠 Genesis Stage - Ideation & Strategy](#genesis-stage---ideation--strategy)
   - [Ideation & Concept Mapping](#ideation--concept-mapping)
   - [Market Research & Intelligence](#market-research--intelligence)
@@ -424,6 +379,49 @@ Please read our [contributing guidelines](CONTRIBUTING.md) for detailed informat
 - **Need clarification?** Check our contributing guidelines
 
 **Together, we're building the future of AI-powered GTM! 🚀**
+
+## 🏗️ Foundation - Core AI Models & Platforms *(Bonus - More Technical)*
+
+The foundational layer that powers all specialized AI agents in the GTM stack. These core models, platforms, and infrastructure components provide the underlying intelligence, development capabilities, and API access that enable the sophisticated workflows throughout the funnel. Understanding and leveraging these foundational tools is essential for building custom AI solutions and maximizing the effectiveness of specialized agents.
+
+**Strategic Imperative**: The foundation layer determines the quality, capabilities, and cost-effectiveness of your entire AI stack. Choosing the right models and platforms can provide 2-10x performance improvements and significant cost savings. The key insight is that these foundational tools are not just utilities but strategic assets that enable competitive advantages through superior AI capabilities and faster development cycles.
+
+**Operational Dynamics**: Modern AI development has evolved from isolated model usage to sophisticated orchestration of multiple models and platforms. Large Language Models (LLMs) provide the core reasoning and generation capabilities, while development platforms enable rapid prototyping and deployment of custom agents. Infrastructure and APIs create the connective tissue that allows seamless integration and scaling. This layered approach enables businesses to build sophisticated AI systems without deep technical expertise while maintaining the flexibility to customize and optimize for specific use cases.
+
+### Large Language Models (LLMs)
+
+- [Anthropic Claude API](https://www.anthropic.com/claude) - Enterprise-grade API for Claude models and custom AI applications
+- [ChatGPT (OpenAI)](https://chat.openai.com/) - GPT-powered conversational AI with advanced reasoning and multimodal capabilities
+- [Claude (Anthropic)](https://claude.ai/) - Constitutional AI model focused on safety, helpfulness, and honesty
+- [Gemini (Google)](https://gemini.google.com/) - Multimodal AI model with advanced reasoning and real-time information
+- [Google AI Studio](https://aistudio.google.com/) - Development platform for Gemini models and custom AI applications
+- [Mistral AI](https://mistral.ai/) - Open-source and commercial LLMs with strong performance and cost efficiency
+- [OpenAI API](https://platform.openai.com/) - Comprehensive API suite for GPT models, embeddings, and fine-tuning
+- [Perplexity AI](https://www.perplexity.ai/) - AI-powered search engine with real-time web access and source citations
+
+### AI Development Platforms
+
+- [Bubble](https://bubble.io/) - No-code platform for building web apps with AI integration
+- [Cursor](https://cursor.sh/) - AI-powered code editor for advanced code generation and editing
+- [Flowise](https://flowiseai.com/) - Drag-and-drop builder for custom AI chatbots and workflows
+- [LangChain](https://www.langchain.com/) - Framework for building LLM-powered apps with chains and agents
+- [LlamaIndex](https://www.llamaindex.ai/) - Data framework for connecting LLMs to external data sources
+- [Make.com](https://www.make.com/) - Visual automation platform with AI for complex workflows
+- [Replit](https://replit.com/) - Cloud development environment with AI coding assistance
+- [Zapier AI](https://zapier.com/ai) - AI-powered automation platform for connecting apps and workflows
+
+### AI Infrastructure & APIs
+
+- [AWS AI Services](https://aws.amazon.com/ai/) - Suite of AI services including SageMaker and Bedrock
+- [Azure AI](https://azure.microsoft.com/en-us/products/ai) - Microsoft AI platform with cognitive services and ML tools
+- [Chroma](https://www.trychroma.com/) - Open-source embedding database for AI applications
+- [Cohere](https://cohere.ai/) - API platform for text generation, classification, and embeddings
+- [Google AI Platform](https://cloud.google.com/ai-platform) - Cloud-based AI development and deployment platform
+- [Hugging Face](https://huggingface.co/) - Platform for ML models, datasets, and AI applications
+- [Pinecone](https://www.pinecone.io/) - Vector database for AI applications and semantic search
+- [Weaviate](https://weaviate.io/) - Vector database with AI-native search and classification
+
+*Note: Main LLM APIs (Anthropic Claude API, OpenAI API) are listed in the [Large Language Models](#large-language-models-llms) section above.*
 
 ## License
 
