@@ -54,9 +54,9 @@
 
 ### 🎨 Attraction Stage – Visual Content
 
-- [x] Add: Midjourney V7
+- [x] Add: Midjourney
 - [x] Add: Adobe Firefly
-- [x] Add: Runway Gen-3
+- [x] Add: Runway
 
 ### 🤝 Conversion Stage – Prospecting & Outreach
 

@@ -15,7 +15,7 @@ The foundational layer that powers all specialized AI agents in the GTM stack. T
 ### Large Language Models (LLMs)
 
 - [Anthropic Claude API](https://www.anthropic.com/claude) - Enterprise-grade API for Claude models and custom AI applications
-- [ChatGPT (OpenAI)](https://chat.openai.com/) - GPT-4 powered conversational AI with advanced reasoning and multimodal capabilities
+- [ChatGPT (OpenAI)](https://chat.openai.com/) - GPT-powered conversational AI with advanced reasoning and multimodal capabilities
 - [Claude (Anthropic)](https://claude.ai/) - Constitutional AI model focused on safety, helpfulness, and honesty
 - [Gemini (Google)](https://gemini.google.com/) - Multimodal AI model with advanced reasoning and real-time information
 - [Google AI Studio](https://aistudio.google.com/) - Development platform for Gemini models and custom AI applications
@@ -142,11 +142,11 @@ The engine of organic growth and brand authority establishment. This stage repre
 
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI-powered creative tools for image generation and editing
 - [Canva AI](https://www.canva.com/) - Design platform with Magic Write and image generators
-- [Google Veo 3](https://gemini.google.com/) - Advanced text-to-video with native audio generation
+- [Google Veo](https://gemini.google.com/) - Advanced text-to-video with native audio generation (latest version)
 - [InVideo AI](https://invideo.io/ai/) - Complete video creation from text prompts
 - [Lumen5](https://lumen5.com/) - Transform blog posts into engaging social videos
-- [Midjourney V7](https://www.midjourney.com/) - Advanced AI image generation with enhanced quality and control
-- [Runway Gen-3](https://runwayml.com/) - AI video generation and editing platform with advanced capabilities
+- [Midjourney](https://www.midjourney.com/) - Advanced AI image generation with enhanced quality and control (latest version)
+- [Runway](https://runwayml.com/) - AI video generation and editing platform with advanced capabilities (latest version)
 - [Synthesia](https://www.synthesia.io/) - Professional AI avatar videos in 140+ languages
 - [Vyond](https://www.vyond.com/) - AI animated video creation for business (Vyond Go)
 
