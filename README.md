@@ -357,25 +357,7 @@ agents:
     tools: [Calendly, Reclaim.ai, Lindy]
 ```
 
-## Tag Legend
 
-### 🏷️ Tool Categories
-- 🛰 **Agent**: AI-powered autonomous tools that can execute complex workflows
-- 🧠 **LLM**: Large Language Model or AI model platform
-- 🔌 **Integration**: Tools that connect and orchestrate other systems
-- 📊 **Analytics**: Data analysis and business intelligence tools
-
-### 💰 Pricing Models
-- 🆓 **Free**: Free tier available
-- 💲 **Paid**: Paid service only
-- 🎯 **Freemium**: Free tier with paid upgrades
-- 🏢 **Enterprise**: Enterprise-focused pricing
-
-### 🎯 Use Cases
-- 📈 **GTM**: Go-to-Market specific functionality
-- 🤖 **Automation**: Workflow automation capabilities
-- 📱 **Mobile**: Mobile app or mobile-optimized
-- 🌐 **API**: API access available
 
 ## Community & Contributions
 
